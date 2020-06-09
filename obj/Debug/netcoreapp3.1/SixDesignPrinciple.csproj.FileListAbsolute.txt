@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\bin\Debug\netcoreapp3.1\SixDesignPrinciple.exe
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\bin\Debug\netcoreapp3.1\SixDesignPrinciple.deps.json
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\bin\Debug\netcoreapp3.1\SixDesignPrinciple.runtimeconfig.json
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\bin\Debug\netcoreapp3.1\SixDesignPrinciple.runtimeconfig.dev.json
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\bin\Debug\netcoreapp3.1\SixDesignPrinciple.dll
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\bin\Debug\netcoreapp3.1\SixDesignPrinciple.pdb
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\obj\Debug\netcoreapp3.1\SixDesignPrinciple.csprojAssemblyReference.cache
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\obj\Debug\netcoreapp3.1\SixDesignPrinciple.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\obj\Debug\netcoreapp3.1\SixDesignPrinciple.AssemblyInfo.cs
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\obj\Debug\netcoreapp3.1\SixDesignPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\obj\Debug\netcoreapp3.1\SixDesignPrinciple.dll
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\obj\Debug\netcoreapp3.1\SixDesignPrinciple.pdb
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\obj\Debug\netcoreapp3.1\SixDesignPrinciple.genruntimeconfig.cache

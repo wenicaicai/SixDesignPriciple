@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D0xqDzfl1cXKrvjio4L7ia8MPW2WWXLPZOms45t+j1teG5aKMJGAhdk52fsaTPFLnzR2CUc6sXCRtPH5OkL7sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ThinkPad\\Downloads\\TechnologySkillImprove\\SixDesignPrinciple\\SixDesignPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThinkPad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
