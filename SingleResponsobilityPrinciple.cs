@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SixDesignPrinciple
 {
-    ///教程有毒，没有给出根本解决方法
+    /// 教程有毒，没有给出根本解决方法
     /// <summary>
     /// 单一职责原则
     /// 主要针对：约束类实现和细节

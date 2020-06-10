@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SixDesignPrinciple", "SixDesignPrinciple.csproj", "{BA21D233-2DCF-4BFF-BE43-E0B8B1785369}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SixDesignPrinciple", "SixDesignPrinciple.csproj", "{BA21D233-2DCF-4BFF-BE43-E0B8B1785369}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADuck", "..\ADuck\ADuck.csproj", "{C7C0CB8D-90BC-48C4-AD58-4F8F58F04C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherData", "..\WeatherData\WeatherData.csproj", "{B2633836-D24A-4619-99DD-305117D8A3D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{BA21D233-2DCF-4BFF-BE43-E0B8B1785369}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA21D233-2DCF-4BFF-BE43-E0B8B1785369}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA21D233-2DCF-4BFF-BE43-E0B8B1785369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C0CB8D-90BC-48C4-AD58-4F8F58F04C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C0CB8D-90BC-48C4-AD58-4F8F58F04C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C0CB8D-90BC-48C4-AD58-4F8F58F04C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C0CB8D-90BC-48C4-AD58-4F8F58F04C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2633836-D24A-4619-99DD-305117D8A3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2633836-D24A-4619-99DD-305117D8A3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2633836-D24A-4619-99DD-305117D8A3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2633836-D24A-4619-99DD-305117D8A3D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
