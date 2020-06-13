@@ -1,11 +1,64 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.dll": {}
+        }
+      },
+      "Inherit/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Inherit.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Inherit.dll": {}
+        }
+      },
+      "Polymorphic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Polymorphic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Polymorphic.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Common/1.0.0": {
+      "type": "project",
+      "path": "../Common/Common.csproj",
+      "msbuildProject": "../Common/Common.csproj"
+    },
+    "Inherit/1.0.0": {
+      "type": "project",
+      "path": "../Inherit/Inherit.csproj",
+      "msbuildProject": "../Inherit/Inherit.csproj"
+    },
+    "Polymorphic/1.0.0": {
+      "type": "project",
+      "path": "../Polymorphic/Polymorphic.csproj",
+      "msbuildProject": "../Polymorphic/Polymorphic.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Inherit >= 1.0.0",
+      "Polymorphic >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ThinkPad\\.nuget\\packages\\": {},
@@ -36,7 +89,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ThinkPad\\Downloads\\TechnologySkillImprove\\Inherit\\Inherit.csproj": {
+              "projectPath": "C:\\Users\\ThinkPad\\Downloads\\TechnologySkillImprove\\Inherit\\Inherit.csproj"
+            },
+            "C:\\Users\\ThinkPad\\Downloads\\TechnologySkillImprove\\Polymorphic\\Polymorphic.csproj": {
+              "projectPath": "C:\\Users\\ThinkPad\\Downloads\\TechnologySkillImprove\\Polymorphic\\Polymorphic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

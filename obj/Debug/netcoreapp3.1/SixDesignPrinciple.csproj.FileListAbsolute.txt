@@ -11,3 +11,8 @@ C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\obj\Debug\
 C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\obj\Debug\netcoreapp3.1\SixDesignPrinciple.dll
 C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\obj\Debug\netcoreapp3.1\SixDesignPrinciple.pdb
 C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\obj\Debug\netcoreapp3.1\SixDesignPrinciple.genruntimeconfig.cache
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\bin\Debug\netcoreapp3.1\Polymorphic.dll
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\bin\Debug\netcoreapp3.1\Polymorphic.pdb
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\ThinkPad\Downloads\TechnologySkillImprove\SixDesignPrinciple\obj\Debug\netcoreapp3.1\SixDesignPrinciple.csproj.CopyComplete

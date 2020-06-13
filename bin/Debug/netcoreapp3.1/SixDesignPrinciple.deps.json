@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "SixDesignPrinciple/1.0.0": {
+        "dependencies": {
+          "Polymorphic": "1.0.0"
+        },
         "runtime": {
           "SixDesignPrinciple.dll": {}
+        }
+      },
+      "Common/1.0.0": {
+        "runtime": {
+          "Common.dll": {}
+        }
+      },
+      "Polymorphic/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "runtime": {
+          "Polymorphic.dll": {}
         }
       }
     }
   },
   "libraries": {
     "SixDesignPrinciple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Polymorphic/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
