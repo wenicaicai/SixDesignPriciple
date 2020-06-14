@@ -24,7 +24,10 @@ namespace SixDesignPrinciple
 
             //测试继承（鸡类、鹰类）
             Bird bird = new Bird();
+            
             Chicken chicken = new Chicken();
+            BirdAdapter birdAdapter = new BirdAdapter(chicken);
+            birdAdapter.ToTweet();
             //继承时，发生创建类的过程，方法列表、属性列表，父类的先于子类，先于对象创建
         }
     }
