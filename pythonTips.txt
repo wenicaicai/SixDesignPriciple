@@ -1,0 +1,10 @@
+﻿
+Mojito B站评论云词
+Python 爬取周杰伦《Mojito》MV 弹幕，这个词亮了！
+
+脚本之家  前天
+
+https://blog.csdn.net/qq_34337272/article/details/79554772 jieba 做最好的中文分词
+
+# 使用国内镜像更快
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyspider
