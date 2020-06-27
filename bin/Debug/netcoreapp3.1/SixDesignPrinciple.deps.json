@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v3.1": {
       "SixDesignPrinciple/1.0.0": {
         "dependencies": {
+          "Inherit": "1.0.0",
+          "Models": "1.0.0",
           "Polymorphic": "1.0.0"
         },
         "runtime": {
@@ -17,6 +19,19 @@
       "Common/1.0.0": {
         "runtime": {
           "Common.dll": {}
+        }
+      },
+      "Inherit/1.0.0": {
+        "runtime": {
+          "Inherit.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "runtime": {
+          "Models.dll": {}
         }
       },
       "Polymorphic/1.0.0": {
@@ -36,6 +51,16 @@
       "sha512": ""
     },
     "Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inherit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

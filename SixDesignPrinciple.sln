@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP", "..\SRP\SRP.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP", "..\OCP\OCP.csproj", "{52D4F6AA-F6EF-410E-AB42-8A394469139D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twenty-ThreeDesignPattern", "..\Twenty-Three.Design\Twenty-ThreeDesignPattern.csproj", "{15ABC9CD-AD59-469F-AD0E-0B0345B98DCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twenty-ThreeDesignPattern", "..\Twenty-Three.Design\Twenty-ThreeDesignPattern.csproj", "{15ABC9CD-AD59-469F-AD0E-0B0345B98DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "..\Models\Models.csproj", "{221FC458-6225-4125-A1E8-60C07C3FB072}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{15ABC9CD-AD59-469F-AD0E-0B0345B98DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15ABC9CD-AD59-469F-AD0E-0B0345B98DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15ABC9CD-AD59-469F-AD0E-0B0345B98DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221FC458-6225-4125-A1E8-60C07C3FB072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221FC458-6225-4125-A1E8-60C07C3FB072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221FC458-6225-4125-A1E8-60C07C3FB072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221FC458-6225-4125-A1E8-60C07C3FB072}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
